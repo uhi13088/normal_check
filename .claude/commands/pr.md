@@ -7,30 +7,30 @@ TASK.md의 DONE 항목과 git diff를 기반으로 PR 설명을 작성해줘.
 
 ## PR 템플릿
 ```markdown
-## 🎯 What (무엇을)
+## What (무엇을)
 - TASK.md 티켓 기반 설명
 
-## 💡 Why (왜)
+## Why (왜)
 - 변경 이유/배경
 
-## 🔧 How (어떻게)
+## How (어떻게)
 - 주요 변경 사항
 - 기술적 결정 사항
 
-## 📋 Changes (변경 파일)
+## Changes (변경 파일)
 - `src/...`
 - `src/...`
 
-## ✅ Test (테스트)
+## Test (테스트)
 - [ ] 유닛 테스트 통과
 - [ ] 통합 테스트 통과
 - [ ] 수동 테스트: (방법)
 
-## ⚠️ Risk & Rollback (위험/롤백)
+## Risk & Rollback (위험/롤백)
 - 위험: (있으면)
 - 롤백: (방법)
 
-## 📸 Screenshots (있으면)
+## Screenshots (있으면)
 ```
 
 ## 출력
